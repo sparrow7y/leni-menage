@@ -122,14 +122,14 @@ section h2 {
 .profile-info {
   flex: 1;
 }
-.cv-list, .portfolio-list {
+.cv-list, .portfolio-list, .contact-list {
   list-style: none;
   padding: 0;
 }
-.cv-list li, .portfolio-list li {
+.cv-list li, .portfolio-list li, .contact-list li {
   margin-bottom: 1em;
 }
-.cv-list strong {
+.cv-list strong, .contact-list strong {
   color: #2d3e50;
 }
 .portfolio-list li {
